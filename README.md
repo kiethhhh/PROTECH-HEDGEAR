@@ -1,6 +1,6 @@
 # protech
 
-A new Flutter project.
+A project made by kieth de ocampo, beverly bernardino, and edward cristobal
 
 ## Getting Started
 
